@@ -10,12 +10,6 @@ A sleek, modern, and functional To-Do List application built with Flutter and Da
 * **Responsive UI:** Designed to work well across both mobile (iOS/Android) and desktop platforms.
 * **Modern Design:** Features a subtle card elevation and a distinctive color palette (as seen in the provided UI screenshot).
 
-## 📸 Screenshot
-
-| Home Screen |
-| :---: |
-| [Insert your image here, or link to the uploaded image] |
-| *Example UI showing the task input and list view* |
 
 ## 🛠️ Technologies Used
 
